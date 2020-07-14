@@ -42,7 +42,7 @@ http://localhost:3001/
 [Teacher Grade Book](https://github.com/mattkohl82/Teachers-Grading-Book.git)    
 
 ### Heroku deployment page 
-[Teacher Grade Book](https://rocky-sea-29203.herokuapp.com/) 
+[Teacher Grade Book](https://calm-plateau-40957.herokuapp.com/) 
 
 
 ### Main Page Mackup
