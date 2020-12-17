@@ -20,7 +20,7 @@
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^6.1.1",
-    "datatables.net": "^1.10.21",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.21",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
